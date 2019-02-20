@@ -3,6 +3,12 @@
 
 react jest 測試整理
 
+### 使用前要安裝
+
+```
+npm install jest testing library
+```
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
