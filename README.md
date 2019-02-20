@@ -8,6 +8,11 @@ react jest 測試整理
 Launches the test runner in the interactive watch mode.<br>
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+```
+npm run test
+npm run test:coverage
+```
+
 ### `npm run build`
 
 react-scripts@2.0.0 以上才有支持 minify node_modules
